@@ -22,12 +22,8 @@ def show_tasks(tasks):
         print(f"{i+1}. задача: {task[0]} приоритет: {task[1]} дата: {task[2]} {is_ready}")
 
 def done(tasks, number):
-    n = 0
-    for task in tasks:
-        n +=1
-        if n == number:
-            task[3] = True
-            print(task)
+    tasks[number - 1][3] = True
+    print(tasks[number - 1])
 
 def filter_tasks(tasks, priority):
     for task in tasks:
@@ -47,8 +43,8 @@ def stats(tasks):
     if n == 0:
         print("Задач нет.")
         return
-    sum = finished / n * 100
-    print(f"всего задач:{n}, выполнено:{finished}, осталось:{left}, % выполнения:{sum}")
+    completion = finished / n * 100
+    print(f"всего задач:{n}, выполнено:{finished}, осталось:{left}, % выполнения:{completion}")
 
 
 while True:
