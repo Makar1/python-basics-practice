@@ -1,0 +1,12 @@
+[
+  {"title": "Python Developer", "company": "Яндекс", "salary": 180000, "skills": ["Python", "SQL", "Git"], "experience": 3},
+  {"title": "Data Analyst", "company": "Сбер", "salary": 150000, "skills": ["SQL", "Python", "Tableau", "Excel"], "experience": 2},
+  {"title": "Backend Developer", "company": "Тинькофф", "salary": 220000, "skills": ["Python", "Django", "PostgreSQL", "Docker"], "experience": 5},
+  {"title": "ML Engineer", "company": "Яндекс", "salary": 280000, "skills": ["Python", "ML", "PyTorch", "SQL"], "experience": 7},
+  {"title": "Junior Python Developer", "company": "Авито", "salary": 95000, "skills": ["Python", "Git", "HTML"], "experience": 1},
+  {"title": "Data Engineer", "company": "Сбер", "salary": 200000, "skills": ["Python", "Spark", "Airflow", "SQL"], "experience": 4},
+  {"title": "DevOps Engineer", "company": "Тинькофф", "salary": 240000, "skills": ["Docker", "Kubernetes", "Git", "Linux"], "experience": 6},
+  {"title": "Python Developer", "company": "Авито", "salary": 160000, "skills": ["Python", "FastAPI", "PostgreSQL", "Git"], "experience": 3},
+  {"title": "BI Analyst", "company": "МТС", "salary": 130000, "skills": ["SQL", "Tableau", "Excel", "Python"], "experience": 2},
+  {"title": "Senior Backend Developer", "company": "МТС", "salary": 300000, "skills": ["Python", "Django", "Redis", "Docker", "SQL"], "experience": 8}
+]

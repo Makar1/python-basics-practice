@@ -1,0 +1,115 @@
+{
+  "total": 10,
+  "high_salary": [
+    {
+      "title": "Senior Backend Developer",
+      "company": "МТС",
+      "salary": 300000,
+      "skills": [
+        "Python",
+        "Django",
+        "Redis",
+        "Docker",
+        "SQL"
+      ],
+      "experience": 8
+    },
+    {
+      "title": "ML Engineer",
+      "company": "Яндекс",
+      "salary": 280000,
+      "skills": [
+        "Python",
+        "ML",
+        "PyTorch",
+        "SQL"
+      ],
+      "experience": 7
+    },
+    {
+      "title": "DevOps Engineer",
+      "company": "Тинькофф",
+      "salary": 240000,
+      "skills": [
+        "Docker",
+        "Kubernetes",
+        "Git",
+        "Linux"
+      ],
+      "experience": 6
+    },
+    {
+      "title": "Backend Developer",
+      "company": "Тинькофф",
+      "salary": 220000,
+      "skills": [
+        "Python",
+        "Django",
+        "PostgreSQL",
+        "Docker"
+      ],
+      "experience": 5
+    },
+    {
+      "title": "Data Engineer",
+      "company": "Сбер",
+      "salary": 200000,
+      "skills": [
+        "Python",
+        "Spark",
+        "Airflow",
+        "SQL"
+      ],
+      "experience": 4
+    },
+    {
+      "title": "Python Developer",
+      "company": "Яндекс",
+      "salary": 180000,
+      "skills": [
+        "Python",
+        "SQL",
+        "Git"
+      ],
+      "experience": 3
+    },
+    {
+      "title": "Python Developer",
+      "company": "Авито",
+      "salary": 160000,
+      "skills": [
+        "Python",
+        "FastAPI",
+        "PostgreSQL",
+        "Git"
+      ],
+      "experience": 3
+    }
+  ],
+  "unique_skills": [
+    "Git",
+    "Excel",
+    "HTML",
+    "Airflow",
+    "Kubernetes",
+    "FastAPI",
+    "Linux",
+    "Spark",
+    "PyTorch",
+    "PostgreSQL",
+    "SQL",
+    "Tableau",
+    "Python",
+    "ML",
+    "Docker",
+    "Redis",
+    "Django"
+  ],
+  "companies": {
+    "Яндекс": 2,
+    "Сбер": 2,
+    "Тинькофф": 2,
+    "Авито": 2,
+    "МТС": 2
+  }
+}
