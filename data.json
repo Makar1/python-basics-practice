@@ -1,0 +1,11 @@
+{
+  "project": "python-basics-practice",
+  "author": "твоё имя",
+  "topics": [
+    "lists",
+    "functions",
+    "dict",
+    "json"
+  ],
+  "completed": true
+}
