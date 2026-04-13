@@ -1,0 +1,30 @@
+[
+  {
+    "city": "Moscow",
+    "date": "2026-04-14 02:06:39",
+    "temperature": 8.38,
+    "humidity": 41,
+    "clouds": 70
+  },
+  {
+    "city": "Moscow",
+    "date": "2026-04-14 02:09:36",
+    "temperature": 8.38,
+    "humidity": 41,
+    "clouds": 70
+  },
+  {
+    "city": "Moscow",
+    "date": "2026-04-14 02:09:42",
+    "temperature": 8.38,
+    "humidity": 41,
+    "clouds": 70
+  },
+  {
+    "city": "Moscow",
+    "date": "2026-04-14 02:10:09",
+    "temperature": 8.38,
+    "humidity": 41,
+    "clouds": 70
+  }
+]
